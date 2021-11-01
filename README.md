@@ -5,3 +5,6 @@ Information about the data can be found here: https://www.tandfonline.com/doi/ab
 You can read about the different columns here: https://s3.amazonaws.com/dq-content/307/data_description.txt
 
 
+![image](https://user-images.githubusercontent.com/90579801/139613608-3083447e-c1ef-4ea3-ad22-2629f34eaf08.png)
+![image](https://user-images.githubusercontent.com/90579801/139613686-cf9d9dd0-a006-49b0-aac5-67fbf028aeb6.png)
+
